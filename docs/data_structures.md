@@ -822,9 +822,10 @@ Outputs:
 ├── docs
 │   └── data_structures.md
 ├── LICENSE
+├── README.md
 └── Session.vim
 
-3 directories, 7 files
+3 directories, 8 files
 ```
 
 Web Developers interact and have a concept of Trees through the paradigm of the

@@ -361,11 +361,11 @@ only grows larger, the bigger the data set becomes.
 
 Hopefully this simple demonstration gives you an idea of how thinking
 programatically can affect the efficiency, or lack thereof, of a Software
-Product. The affect of Software Developer's implementations of algorithms
+Product. The affect of a Software Developer's implementations of algorithms
 ultimately affects the use of time, money, and resources. In other words, the
 way we as software developers implement algorithms affects <em>real world
 metrics</em> that have <em>real world consequences</em>! Let's now analyze our
-two different solutions using different metrics to see what these consequences,
+two different solutions using different metrics to see what these consequences
 might be.
 
 ### Analysis of Algorithms

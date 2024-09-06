@@ -190,7 +190,7 @@ which data structure to use.
 As I hinted earlier, using a Record Data Structure can help us understand how we
 might more efficiently solve this problem. If you recall from our previous talk
 on Data Structures, a Record is simply a series of key/value pairs that
-establisha relationship between a defined property name and it's corresponding
+establish a relationship between a defined property name and it's corresponding
 value or method.
 
 Let's think logically how this data structure might help us in the context of

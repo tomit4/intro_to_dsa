@@ -698,7 +698,7 @@ results:
 We count up to n twice over. For each time we count one cycle of `n` with the
 variable `i`, we then iterate again up to `n` with the variable `j`, resulting
 in an exponent of `n` amount of times we go over (since we use `n` to count in
-the inner `for` loop as well). Specifically we count up to n n^2 times. This is
+the inner `for` loop as well). Specifically we count n^2 times. This is
 expressed in big O notation like so:
 
 $$ O(n^2) $$

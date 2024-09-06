@@ -174,7 +174,7 @@ passes the condition or not.
 So how can we optimize this? Well this is where familiarity with one of our Data
 Structures can help us. We have already established the use of an array here,
 the most basic of Data Structures. How can we keep track of which elements we've
-visisted without having to loop over every other element in the array
+visited without having to loop over every other element in the array
 <em>again</em>? In other words, how can we pass over each element in the array
 <em>only once</em>?
 

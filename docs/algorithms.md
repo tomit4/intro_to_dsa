@@ -493,9 +493,9 @@ in how much memory was allocated to the Heap throughout the lifecycle of each
 solution.
 
 Our more Time Efficient Solution, The Hash Map Soltuion, consumes more RAM
-because it utilizes the Record Data Structure, which if you recall from our
-previous talk does not allocate memory in a contiguous set of memory addresses
-like an Array does.
+because it grows the `numMap` as it iterates through the `for` loop, having to
+continually reallocate memory to accommodate for more keys/value pairs in the
+Map.
 
 Because of this, through for loop iteration, when we check the contents of our
 Map, the CPU must check the registry of the RAM by reference (see

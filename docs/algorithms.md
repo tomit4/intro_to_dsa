@@ -71,7 +71,7 @@ Development, as FizzBuzz is ultimately closer to a basic math problem than a
 rigorous mathematical computation. That said, Two Sum is not too complicated and
 is a good introduction to how Algorithms can still solve a problem, but be
 inefficient, as well as how a simple change in thinking on the problem can solve
-the problem in a far more efficient pattern.
+said problem in a far more efficient pattern.
 
 Here is the Two Sum problem as presented on LeetCode:
 

@@ -357,7 +357,7 @@ array</em>, we will always find the target in the <em>Worst Case Scenario</em>.
 Note that our Brute Force Solution takes roughly <em>ten times</em> more time to
 execute and find the solution than our Hash Map Solution. And this only gets
 worse the larger the data set becomes, the disparity between these two solutions
-only grows larger, the larger the data set becomes.
+only grows larger, the bigger the data set becomes.
 
 Hopefully this simple demonstration gives you an idea of how thinking
 programatically can affect the efficiency, or lack thereof, of a Software

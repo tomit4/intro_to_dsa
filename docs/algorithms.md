@@ -61,13 +61,6 @@ about Algorithmic problems in accordance with one of the three aforementioned
 strategies helps to facilitate a more Programmatic way of thinking about given
 problems.
 
-As we continue through today's talk, while we will be undoubtedly working with
-many of the Data Structures from the previous talk, I wish to emphasize that we
-will be covering one Algorithm each within these strategies, and it is best to
-think about Algorithms not by the specific Data Structures they utilize th solve
-the problem, but rather by one of these three strategies. If this doesn't make
-sense yet, do not worry, I will be reiterating this point as we go along.
-
 ### Two Sum: The "Hello World!" Of Algorithms
 
 While many might contest that the more elementary

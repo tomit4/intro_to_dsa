@@ -703,13 +703,13 @@ expressed in big O notation like so:
 
 $$ O(n^2) $$
 
-Spoken as "O of n squared". Generally speaking when you see two double for loops
-in a programming project, you should be a bit suspicious that something is
-wrong. Looping through a data set using a nested for loop means that as our data
-set increases (n goes up), the amount of time to parse through and "do
+Spoken as "O of n squared". Generally speaking when you see two double `for`
+loops in a programming project, you should be a bit suspicious that something is
+wrong. Looping through a data set using a nested `for` loop means that as our
+data set increases (n goes up), the amount of time to parse through and "do
 something" with that data also goes up, and contributes to longer wait times for
 our user and potentially costs more money to our employers. This continues to
-get worse as it goes on, consider this nested for loop:
+get worse as it goes on, consider this nested `for` loop:
 
 ```js
 let n = 5;
@@ -726,8 +726,12 @@ This would be considered:
 
 $$ O(n^3) $$
 
-Or "O of n cubed", etc. What is the inverse of this, what could be better than
-$O(n)$?
+Or "O of n cubed", etc. The more `for` loops we nest, the worse our time
+complexity becomes.
+
+So what is the inverse of this, so far the best time complexity we've come up
+with is $O(n)$. Can there be a more time efficient solution? What could be
+better than $O(n)$?
 
 Well let's consider this big O notation:
 

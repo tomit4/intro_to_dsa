@@ -211,7 +211,7 @@ purposes of this exercise, you can think of it more as a standard JavaScript
 Object or Python Dictionary.
 
 We have now established a `numMap` Record to hold onto all previously visisted
-indexes and their corresponding values:
+indices and their corresponding values:
 
 ```js
 const twoSum = (nums, target) => {
@@ -230,7 +230,7 @@ let target = 9;
 console.log(`twoSum([${nums}], ${target}) :=>`, twoSum(nums, target));
 ```
 
-If we run the above, the numMap will simply be populated with the indexes and
+If we run the above, the numMap will simply be populated with the indices and
 values within the array, with the values being the keys, and the indices being
 the values of the `numMap`:
 

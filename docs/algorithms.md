@@ -210,9 +210,8 @@ benefits over Object such as more performant iterability. That said, for the
 purposes of this exercise, you can think of it more as a standard JavaScript
 Object or Python Dictionary.
 
-We have now established a `numMap` Record to hold onto all previously indexes
-and their corresponding values! To reiterate, this means we can record all
-previously visited indexes and numbers:
+We have now established a `numMap` Record to hold onto all previously visisted
+indexes and their corresponding values:
 
 ```js
 const twoSum = (nums, target) => {

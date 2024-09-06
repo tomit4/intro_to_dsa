@@ -180,7 +180,7 @@ visited without having to loop over every other element in the array
 
 This is where familiarity with our Data Structures is going to help us
 immensely. If the answer is not apparent to you, don't worry about it. It would
-not apparent to me either had I not solved this problem multiple times in the
+not be apparent to me either had I not solved this problem multiple times in the
 past. That said, the indication that we need to keep some <em>record</em> of our
 previously visited elements in the array should give you an inclination as to
 which data structure to use.
